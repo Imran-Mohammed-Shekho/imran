@@ -8,7 +8,7 @@ export default defineUserConfig({
   title: 'Profile',
   description: 'My first VuePress Site',
 
-  base: '/profile/',
+  base: '/imran/',
 
   theme: defaultTheme({
     logo: '/images/github-50.png',
